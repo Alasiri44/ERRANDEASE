@@ -6,6 +6,59 @@ User Authentication and Role Management
 Registration and Login: Secure user registration and login system for service seekers and service providers, ensuring privacy and role-specific access.
 Profile Management: Users and service providers can manage their profiles, update personal details, and view transaction history.
 
+Core Features
+Task Posting and Matching
+Allow users to post errands with details such as task description, location, urgency, and budget.
+Match tasks with suitable errand runners based on proximity, skills, and availability.
+
+Real-Time Tracking
+Enable users to track the location and progress of their errands in real time using GPS.
+
+Payment Integration
+Include secure payment gateways for online payments, supporting multiple methods (credit/debit cards, mobile wallets, etc.).
+
+Ratings and Reviews
+Allow users to rate and review errand runners for transparency and trust.
+
+Scheduling Options
+Offer users the option to schedule errands for future dates and times.
+
+User Experience Features
+User Profiles
+Create profiles for both errand requesters and runners, including photos, bios, and verification badges.
+
+Notifications and Reminders
+Send notifications about task updates, payment confirmations, and reminders for scheduled errands.
+
+Chat System
+Integrate an in-app chat feature for users to communicate directly with errand runners.
+
+Search and Filters
+Provide a search bar and filters (e.g., location, type of errand, price range) to find suitable runners or tasks quickly.
+
+Admin and Safety Features
+Admin Dashboard
+Develop a backend dashboard to manage user accounts, monitor activities, and resolve disputes.
+
+Identity Verification
+Implement ID and background checks to ensure the credibility of errand runners.
+
+Emergency Support
+Add a safety feature where users can alert authorities or app administrators if something goes wrong.
+
+Additional/Advanced Features
+Subscription Plans
+Offer premium plans with perks like faster service or lower fees.
+
+Referral Program
+Introduce a referral system to encourage users to bring more people to the platform.
+
+Analytics for Users
+Provide insights like the number of errands completed or money saved using the app.
+
+Multilingual and Accessibility Support
+Make the app accessible in multiple languages and add features like voice commands or screen reader compatibility.
+
 Service Offerings
 House Cleaning: Book trusted professionals for home cleaning tasks.
 Chauffeurs and "Drive Me Home" Drivers: Hire drivers to take you where you need to go or drive your car for you.
