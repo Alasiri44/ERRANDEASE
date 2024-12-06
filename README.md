@@ -1,4 +1,3 @@
-ErrandEase
 ErrandEase is a comprehensive platform designed to simplify life by enabling users to request a wide range of services from the comfort of their homes. From household chores to personal care and event planning, ErrandEase connects users with professionals ready to assist.
 
 Features
